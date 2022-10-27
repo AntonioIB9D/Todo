@@ -1,6 +1,6 @@
-# Webpack Starter
+# To-do App
 
-🛠️ Proyecto base para la creación de aplicaciones utilizando webpack.
+🛠️ Aplicación de tareas To-do
 
 ### Notas adicionales 📗:
 
